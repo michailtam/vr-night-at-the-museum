@@ -1,0 +1,18 @@
+##### Folders and Subfolders to exclude #####
+#############################################
+Library
+Build
+Temp
+Videos
+Assets/GoogleVR/
+Assets/Plugins/
+Assets/3D Models/
+Assets/_Creepy_Cat/
+Helps
+
+# File Extensions to exclude #
+##############################
+*.csproj
+*.sln
+*.suo
+*.meta
