@@ -3,7 +3,7 @@
 As an exercise of an Udacity project, I have created a mobile VR application which is called NightAtTheMuseum. 
 The creation process included the design, iteration through the development process and the user testing. After 
 starting the application the user is located in a virtual car museum in front of a welcome screen. The screen 
-explains the contents of the application and how the movement and interactions occur. The user can go throu 
+explains the contents of the application and how the movement and interactions occur. The user can go through 
 the museum and visit stations that explain the respective VR technology in the automobile industry.
 
 ###Considerations
