@@ -12,7 +12,8 @@ atmospheric environment in which the user feels the mood of a virtual museum.
 
 ###IMPORTANT
 Because of the repo contains Git LFS content, you have to download the repo via the command:
-**git clone https://github.com/michailtam/P5-NightAtTheMuseum**
+**git clone https://github.com/michailtam/P5-NightAtTheMuseum**, not using any 3rd-party client like
+SourceTree.
 
 ##Night At The Museum
 Users who have tested the application were very impressed with the big environment and the different kinds of VR 
