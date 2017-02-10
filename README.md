@@ -25,17 +25,17 @@ and if it makes them sick. All users had no experience with VR applications even
 [![NightAtTheMuseum YouTube Video](https://img.youtube.com/vi/ISHZB7u5ees/0.jpg)](https://www.youtube.com/watch?v=ISHZB7u5ees)
 
 ####Screenshots
-<img src="https://s27.postimg.org/62vm7wtwj/raw_screenshot.jpg" alt="first steps" width="640" height="288">
-<img src="https://s27.postimg.org/qoadztbhf/welcome_screenshot.jpg" alt="welcome screen" width="640" height="288">
-<img src="https://s27.postimg.org/3vms68z8j/experience_station_screenshot.jpg" alt="VR Experience" width="640" height="288">
-<img src="https://s27.postimg.org/9l7m4ausj/experience_station_video_screenshot.jpg" alt="VR Experience video" width="640" height="288">
+<img src="https://raw.githubusercontent.com/michailtam/P5-NightAtTheMuseum/master/_README/screenshot02.JPG" width="640" height="288">
+<img src="https://raw.githubusercontent.com/michailtam/P5-NightAtTheMuseum/master/_README/screenshot03.JPG" width="640" height="288">
+<img src="https://raw.githubusercontent.com/michailtam/P5-NightAtTheMuseum/master/_README/screenshot01.JPG" width="640" height="288">
+<img src="https://raw.githubusercontent.com/michailtam/P5-NightAtTheMuseum/master/_README/screenshot04.JPG" width="640" height="288">
 
 ##Process
 **Statement of Purpose:** NightAtTheMuseum is a mobile VR application that gives people a different way to visit 
 a car museum.
 
 ###Persona
-<img src="https://s29.postimg.org/qtrx8tvhz/persona.gif" alt="persona" width="160" height="200">
+<img src="https://raw.githubusercontent.com/michailtam/P5-NightAtTheMuseum/master/_README/persona.gif" width="160" height="200">
 
 *The user persona tat was created for this project is called John. He is 48 years old and works in a museum as guidance. 
 John is not married and spends his free time by going swimming at the nearest swimming pool. In addition he likes reading 
