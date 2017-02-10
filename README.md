@@ -25,10 +25,10 @@ and if it makes them sick. All users had no experience with VR applications even
 [![NightAtTheMuseum YouTube Video](https://img.youtube.com/vi/ISHZB7u5ees/0.jpg)](https://www.youtube.com/watch?v=ISHZB7u5ees)
 
 ####Screenshots
-<img src="https://raw.githubusercontent.com/michailtam/P5-NightAtTheMuseum/master/_README/screenshot02.JPG" width="580" height="288">
-<img src="https://raw.githubusercontent.com/michailtam/P5-NightAtTheMuseum/master/_README/screenshot03.JPG" width="580" height="288">
-<img src="https://raw.githubusercontent.com/michailtam/P5-NightAtTheMuseum/master/_README/screenshot01.JPG" width="580" height="288">
-<img src="https://raw.githubusercontent.com/michailtam/P5-NightAtTheMuseum/master/_README/screenshot04.JPG" width="580" height="288">
+<img src="https://raw.githubusercontent.com/michailtam/P5-NightAtTheMuseum/master/_README/screenshot02.JPG" width="600" height="288">
+<img src="https://raw.githubusercontent.com/michailtam/P5-NightAtTheMuseum/master/_README/screenshot03.JPG" width="600" height="288">
+<img src="https://raw.githubusercontent.com/michailtam/P5-NightAtTheMuseum/master/_README/screenshot01.JPG" width="600" height="288">
+<img src="https://raw.githubusercontent.com/michailtam/P5-NightAtTheMuseum/master/_README/screenshot04.JPG" width="600" height="288">
 
 ##Process
 **Statement of Purpose:** NightAtTheMuseum is a mobile VR application that gives people a different way to visit 
