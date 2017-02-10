@@ -10,10 +10,6 @@ the museum and visit stations that explain the respective VR technology in the a
 There were a lot of design concepts to include in this project, but one of the most important was to create an 
 atmospheric environment in which the user feels the mood of a virtual museum.
 
-###Installation
-To run the VR app you have to download and import the [GoogleVR SDK for Unity](https://developers.google.com/vr/unity/download). 
-The app was created with Unity 5.5.0p3 and tested on Samsung Galaxy S6. 
-
 ##Night At The Museum
 Users who have tested the application were very impressed with the big environment and the different kinds of VR 
 technologies the museum introduces. In addition, the users were asked how they feel the speed of the navigation 
