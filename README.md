@@ -10,6 +10,10 @@ the museum and visit stations that explain the respective VR technology in the a
 There were a lot of design concepts to include in this project, but one of the most important was to create an 
 atmospheric environment in which the user feels the mood of a virtual museum.
 
+###IMPORTANT
+Because of the repo contains Git LFS content, you have to download the repo via the command:
+**git clone https://github.com/michailtam/P5-NightAtTheMuseum**
+
 ##Night At The Museum
 Users who have tested the application were very impressed with the big environment and the different kinds of VR 
 technologies the museum introduces. In addition, the users were asked how they feel the speed of the navigation 
