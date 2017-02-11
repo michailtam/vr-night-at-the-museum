@@ -22,7 +22,8 @@ and if it makes them sick. All users had no experience with VR applications even
 
 
 ####Video
-[![NightAtTheMuseum YouTube Video](https://img.youtube.com/vi/ISHZB7u5ees/0.jpg)](https://www.youtube.com/watch?v=ISHZB7u5ees)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ISHZB7u5ees
+" target="_blank"><img src="https://raw.githubusercontent.com/michailtam/P5-NightAtTheMuseum/master/_README/video_preview.JPG" alt="Puzzler YouTube Video" width="560" height="288" border="0" /></a>
 
 ####Screenshots
 <img src="https://raw.githubusercontent.com/michailtam/P5-NightAtTheMuseum/master/_README/screenshot02.JPG" width="600" height="288">
