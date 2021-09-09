@@ -1,4 +1,4 @@
-# Michail’s Night At The Museum Project
+# Michail’s A Night at the Museum Project
 
 As an exercise of an Udacity project, I have created a mobile VR application which is called NightAtTheMuseum. 
 The creation process included the design, iteration through the development process and the user testing. After 
