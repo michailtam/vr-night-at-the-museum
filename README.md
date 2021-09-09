@@ -15,7 +15,7 @@ Because of the repo contains Git LFS content, you have to download the repo via 
 **git clone https://github.com/michailtam/P5-NightAtTheMuseum**, not using any 3rd-party client like
 SourceTree.
 
-## Night At The Museum
+## Night at the Museum
 Users who have tested the application were very impressed with the big environment and the different kinds of VR 
 technologies the museum introduces. In addition, the users were asked how they feel the speed of the navigation 
 and if it makes them sick. All users had no experience with VR applications even on mobile phones nor on pc. 
@@ -60,7 +60,7 @@ that he didn’t encounter any sickness. In addition, I asked him if he felt any
 he didn't.
 
 
-### Testing the whole application from beginning to the end
+### Testing the Whole Application From Beginning to the End
 
 The user said that in future there could be more VR stations to show additional technologies that will come. He felt no motion
 sickness and problems by navigating through the museum.
